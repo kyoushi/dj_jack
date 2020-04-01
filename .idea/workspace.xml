@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b3f5b06-31c8-404d-9167-4db75e68120c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlZqFQBbrnysfXDqNTDuPqFmwY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="gmusicapi-develop" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="gmusicapi-develop" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop" />
+      <recent name="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\gmusicapi" />
+      <recent name="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\gmusicapi\music" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\gmusicapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getSong (1)">
+    <configuration name="api (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gmusicapi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getSong (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getSong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getSong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gmusicapi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\getSong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getSong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\getSong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playVLC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gmusicapi-develop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playVLC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getSong (1)" />
+        <item itemvalue="Python.playVLC" />
+        <item itemvalue="Python.api (1)" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.getSong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b3f5b06-31c8-404d-9167-4db75e68120c" name="Default Changelist" comment="" />
+      <created>1585415829211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585415829211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="84" key="#Inspections" timestamp="1585416212227">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="261" y="84" key="#Inspections/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585416212227" />
+    <state x="161" y="75" key="#app1" timestamp="1585517823375">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="161" y="75" key="#app1/0.0.1707.920@0.0.1707.920" timestamp="1585517823375" />
+    <state x="627" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585518871245">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="627" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1585518871245" />
+    <state x="168" y="222" key="EnvironmentVariablesDialog" timestamp="1585517822583">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="168" y="222" key="EnvironmentVariablesDialog/0.0.1707.920@0.0.1707.920" timestamp="1585517822583" />
+    <state x="498" y="186" key="FileChooserDialogImpl" timestamp="1585521288135">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="498" y="186" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1585521288135" />
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1585543056280">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1291" height="219" key="GridCell.Tab.0.bottom/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
+    <state width="1313" height="219" key="GridCell.Tab.0.bottom/0.0.1333.849@0.0.1333.849" timestamp="1585500808532" />
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
+    <state width="1686" height="242" key="GridCell.Tab.0.center" timestamp="1585543056280">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1291" height="219" key="GridCell.Tab.0.center/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
+    <state width="1313" height="219" key="GridCell.Tab.0.center/0.0.1333.849@0.0.1333.849" timestamp="1585500808531" />
+    <state width="1686" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
+    <state width="1686" height="242" key="GridCell.Tab.0.left" timestamp="1585543056280">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1291" height="219" key="GridCell.Tab.0.left/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
+    <state width="1313" height="219" key="GridCell.Tab.0.left/0.0.1333.849@0.0.1333.849" timestamp="1585500808530" />
+    <state width="1686" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
+    <state width="1686" height="242" key="GridCell.Tab.0.right" timestamp="1585543056280">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1291" height="219" key="GridCell.Tab.0.right/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
+    <state width="1313" height="219" key="GridCell.Tab.0.right/0.0.1333.849@0.0.1333.849" timestamp="1585500808531" />
+    <state width="1686" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
+    <state x="227" y="74" key="SettingsEditor" timestamp="1585521372183">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="177" y="68" key="SettingsEditor/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585423708933" />
+    <state x="227" y="74" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1585521372183" />
+    <state x="104" y="433" key="com.intellij.ide.util.TipDialog" timestamp="1585521210010">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="366" y="249" key="com.intellij.ide.util.TipDialog/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585416641517" />
+    <state x="366" y="249" key="com.intellij.ide.util.TipDialog/0.0.1333.849@0.0.1333.849" timestamp="1585433718161" />
+    <state x="104" y="433" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1585521210010" />
+    <state x="306" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585423729332">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="306" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585423729332" />
+    <state x="370" y="0" width="975" height="587" key="dock-window-1" timestamp="1585421332593">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="370" y="0" width="975" height="587" key="dock-window-1/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585421332593" />
+    <state x="464" y="24" width="780" height="872" key="find.popup" timestamp="1585518829569">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="362" y="22" width="609" height="804" key="find.popup/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585419672577" />
+    <state x="464" y="24" width="780" height="872" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1585518829569" />
+  </component>
+</project>
