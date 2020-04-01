@@ -5,7 +5,7 @@ def ask_for_song(song):
     api = Mobileclient()
     # mm.perform_oauth('C:\\Users\\mitsu\\Documents\\Python\\projects\\gmusicapi-develop\\oauth.cred')
     api.oauth_login(Mobileclient.FROM_MAC_ADDRESS,
-                    'C:\\Users\\mitsu\\Documents\\Python\\projects\\gmusicapi-develop\\oauth.cred')
+                    'oauth.cred')
     api.login
 
     songs = api.search(song, 2)
@@ -24,4 +24,4 @@ def ask_for_song(song):
     return track
 
 
-print(ask_for_song('toto')[2])
+# print(ask_for_song('toto')[2])

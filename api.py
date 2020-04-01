@@ -45,13 +45,13 @@ def play_song():
     return Response(response_text, status=201, mimetype='application/json')
 
 
-@app.route('/api/v1/action', methods=['POST'])
-def player_action():
-    content = request.json
-
-    playVLC.stop_song(playVLC.player)
-
-    return Response("{'Status':'Success'}", status=201, mimetype='application/json')
+# @app.route('/api/v1/action', methods=['POST'])
+# def player_action():
+#     content = request.json
+# 
+#     playVLC.stop_song(playVLC.player)
+# 
+#     return Response("{'Status':'Success'}", status=201, mimetype='application/json')
 
 
 app.run(debug=True, port=80)  # run app in debug mode on port 5000
