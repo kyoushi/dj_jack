@@ -25,12 +25,19 @@ def home():
 def play_song():
     content = request.json
     try:
-        print('LOOK! 1')
         print(json.dumps(content, indent=4))
         content = content['queryResult']['parameters']['action'].strip('"')
         if content == 'stop':
             response_text = "{'payload':{'google':{'expectUserResponse':false,'richResponse':{'items':[{'simpleResponse':{'textToSpeech':'OK! music stopped'}}]}}}}"
             stream_song.stop_song()
+        elif content == 'our_song':
+            track = getSong.ask_for_song('Africa by Toto')
+            stream_url = track[2]
+            stream_song.play_song(stream_url)
+            response_text = "{'payload':{'google':{'expectUserResponse':true,'richResponse':{'items':[{'simpleResponse':{'textToSpeech':'OK! playing " + \
+                            track[0] + " by " + track[1] + "'}}]}}}}"
+            print(response_text)
+            
     except:
         song = content['queryResult']['parameters']['song'][0].strip('"')
         print(song)
