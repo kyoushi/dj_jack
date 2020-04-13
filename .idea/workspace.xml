@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZlZqFQBbrnysfXDqNTDuPqFmwY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -43,7 +46,7 @@
       <recent name="C:\Users\mitsu\Documents\Python\projects\gmusicapi-develop\gmusicapi" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.getSong (1)">
+  <component name="RunManager" selected="Python.api (1)">
     <configuration name="api (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="gmusicapi-develop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,9 +175,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getSong (1)" />
-        <item itemvalue="Python.playVLC" />
         <item itemvalue="Python.api (1)" />
+        <item itemvalue="Python.playVLC" />
+        <item itemvalue="Python.getSong (1)" />
         <item itemvalue="Python.api" />
         <item itemvalue="Python.getSong" />
       </list>
@@ -198,6 +201,10 @@
       <screen x="0" y="0" width="1333" height="849" />
     </state>
     <state x="261" y="84" key="#Inspections/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585416212227" />
+    <state x="447" y="119" key="#Notifications" timestamp="1586738406951">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="447" y="119" key="#Notifications/0.0.1707.920@0.0.1707.920" timestamp="1586738406951" />
     <state x="161" y="75" key="#app1" timestamp="1585517823375">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -210,39 +217,39 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="168" y="222" key="EnvironmentVariablesDialog/0.0.1707.920@0.0.1707.920" timestamp="1585517822583" />
-    <state x="498" y="186" key="FileChooserDialogImpl" timestamp="1585521288135">
+    <state x="498" y="186" key="FileChooserDialogImpl" timestamp="1586738399455">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="498" y="186" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1585521288135" />
-    <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1585543056280">
+    <state x="498" y="186" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1586738399455" />
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1586740940187">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1291" height="219" key="GridCell.Tab.0.bottom/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
     <state width="1313" height="219" key="GridCell.Tab.0.bottom/0.0.1333.849@0.0.1333.849" timestamp="1585500808532" />
-    <state width="1686" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
-    <state width="1686" height="242" key="GridCell.Tab.0.center" timestamp="1585543056280">
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1586740940187" />
+    <state width="1686" height="242" key="GridCell.Tab.0.center" timestamp="1586740940187">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1291" height="219" key="GridCell.Tab.0.center/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
     <state width="1313" height="219" key="GridCell.Tab.0.center/0.0.1333.849@0.0.1333.849" timestamp="1585500808531" />
-    <state width="1686" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
-    <state width="1686" height="242" key="GridCell.Tab.0.left" timestamp="1585543056280">
+    <state width="1686" height="242" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1586740940187" />
+    <state width="1686" height="242" key="GridCell.Tab.0.left" timestamp="1586740940187">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1291" height="219" key="GridCell.Tab.0.left/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
     <state width="1313" height="219" key="GridCell.Tab.0.left/0.0.1333.849@0.0.1333.849" timestamp="1585500808530" />
-    <state width="1686" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
-    <state width="1686" height="242" key="GridCell.Tab.0.right" timestamp="1585543056280">
+    <state width="1686" height="242" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1586740940187" />
+    <state width="1686" height="242" key="GridCell.Tab.0.right" timestamp="1586740940187">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1291" height="219" key="GridCell.Tab.0.right/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585425877009" />
     <state width="1313" height="219" key="GridCell.Tab.0.right/0.0.1333.849@0.0.1333.849" timestamp="1585500808531" />
-    <state width="1686" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1585543056280" />
-    <state x="227" y="74" key="SettingsEditor" timestamp="1585521372183">
+    <state width="1686" height="242" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1586740940187" />
+    <state x="227" y="74" key="SettingsEditor" timestamp="1586738402162">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="177" y="68" key="SettingsEditor/0.0.1333.849/3000.0.1280.680@0.0.1333.849" timestamp="1585423708933" />
-    <state x="227" y="74" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1585521372183" />
+    <state x="227" y="74" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1586738402162" />
     <state x="104" y="433" key="com.intellij.ide.util.TipDialog" timestamp="1585521210010">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
