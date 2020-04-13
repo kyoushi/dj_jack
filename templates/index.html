@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Base64 Encode/Decode</h2>
+
+<form>
+  <p>Please select type:</p>
+  <input type="radio" id="encode" name="type" value="encode">
+  <label for="encode">Encode</label><br>
+  <input type="radio" id="decode" name="type" value="decode">
+  <label for="decode">Decode</label><br>
+  <br />
+  <label for="fstring">String:</label>
+  <input type="text" id="fstring" name="fstring"><br><br>
+  <button type="button" onclick="loadDoc()">Submit</button>
+</form>
+
+
+<p id="demo">Result: </p>
+
+<script>
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  var fstring;
+  var type;
+  
+  	  fstring = document.getElementById("fstring").value;
+	  type = displayRadioValue();
+  
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("demo").innerHTML = "Result: "+this.responseText;
+    }
+  };
+  console.log(fstring);
+  xhttp.open("GET", "/api/v1/resources/base64?fstring="+fstring+"&type="+type, true);
+  xhttp.send();
+}
+
+	function displayRadioValue() { 
+		var ele = document.getElementsByName('type'); 
+		  
+		for(i = 0; i < ele.length; i++) { 
+			if(ele[i].checked) 
+			return ele[i].value
+		} 
+	} 
+
+</script>
+
+<script src="/static/myScript.js"></script>
+
+<link rel="stylesheet" href='/static/style.css' />
+
+</body>
+</html>
