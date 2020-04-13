@@ -51,4 +51,4 @@ def play_song():
     return Response(response_text, status=201, mimetype='application/json')
 
 
-app.run(debug=True, port=80)  # run app in debug mode on port 5000
+app.run(debug=True, port=8080) # run app in debug mode on port 5000
